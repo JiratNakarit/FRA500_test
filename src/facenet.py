@@ -31,7 +31,7 @@ import os
 from subprocess import Popen, PIPE
 import tensorflow as tf
 import numpy as np
-from scipy.misc
+import scipy.misc
 from sklearn.model_selection import KFold
 from scipy import interpolate
 from tensorflow.python.training import training
